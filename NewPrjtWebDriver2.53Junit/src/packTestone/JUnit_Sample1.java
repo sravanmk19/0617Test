@@ -13,7 +13,7 @@ public class JUnit_Sample1
 	public static void a1()
 	{
 		System.out.println("Before Method");
-		System.out.println("This is BeforeClassMethod");
+		
 	}
 	
 	@AfterClass
